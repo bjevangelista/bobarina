@@ -1,0 +1,12 @@
+<style>
+p {
+    text-align:justify;
+    margin: 0 20%;
+}
+p.neat-word {
+    text-align: center;
+    font-size:30px;
+    color: blue;
+    text-transform:uppercase;
+}
+</style>
