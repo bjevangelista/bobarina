@@ -11,7 +11,7 @@ p.neat-word {
 }
 
 #nav {
-  align-content: center; 
+  text-align: center; 
   background-color: azure;
 }
 #nav li {
