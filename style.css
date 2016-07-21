@@ -9,4 +9,14 @@ p.neat-word {
     color: blue;
     text-transform:uppercase;
 }
+
+#nav {
+  background-color: azure;
+  margin-right: 15px;
+  display: inline;
+}
+
+#nav li a {
+  text-decoration: none;  
+}
 </style>
