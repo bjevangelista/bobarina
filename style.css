@@ -10,7 +10,7 @@ p.neat-word {
     text-transform:uppercase;
 }
 
-#header-text {
+.main-header {
   display:inline;
 }
 #header-text a {
