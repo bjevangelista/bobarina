@@ -11,8 +11,14 @@ p.neat-word {
 }
 
 .main-header {
-  display:inline;
+  text-align: center;
 }
+
+#header-text {
+  display: inline;
+}
+
+
 #header-text a {
   text-align: right;
 }
