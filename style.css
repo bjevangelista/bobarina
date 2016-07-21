@@ -12,11 +12,15 @@ p.neat-word {
 
 #nav {
   background-color: azure;
+}
+#nav li {
   margin-right: 15px;
   display: inline;
 }
 
+
 #nav li a {
-  text-decoration: none;  
+  text-decoration: none;
+
 }
 </style>
