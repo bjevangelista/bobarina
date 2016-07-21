@@ -1,5 +1,16 @@
 <style>
 
+p {
+    text-align:justify;
+    margin: 0 20%;
+}
+
+p.neat-word {
+    text-align: left;
+    color: violet;
+    text-transform:lowercase;
+}
+
 .main-header {
   text-align: center;
 }
@@ -19,22 +30,10 @@
   color:purple;
 }
 
-
 #nav li a:hover {
   text-decoration: underline;
   color:violet;
 
-}
-
-p {
-    text-align:justify;
-    margin: 0 20%;
-}
-
-p.neat-word {
-    text-align: left;
-    color: violet;
-    text-transform:lowercase;
 }
 
 </style>
