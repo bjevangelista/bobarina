@@ -3,7 +3,7 @@ p {
     text-align:justify;
     margin: 0 20%;
 }
-p.neat-word {
+#neat-word {
     text-align: left;
     font-size:30px;
     color: violet;
