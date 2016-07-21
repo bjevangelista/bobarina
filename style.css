@@ -1,14 +1,4 @@
 <style>
-p {
-    text-align:justify;
-    margin: 0 20%;
-}
-.main-header #neat-word {
-    text-align: left;
-    font-size:30px;
-    color: violet;
-    text-transform:lowercase;
-}
 
 .main-header {
   text-align: center;
@@ -34,6 +24,17 @@ p {
   text-decoration: underline;
   color:violet;
 
+}
+
+p {
+    text-align:justify;
+    margin: 0 20%;
+}
+
+p.neat-word {
+    text-align: left;
+    color: violet;
+    text-transform:lowercase;
 }
 
 </style>
