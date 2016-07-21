@@ -14,17 +14,11 @@ p.neat-word {
   text-align: center;
 }
 
-#header-text {
-  display: inline;
-}
-
-
-#header-text a {
+.main-header a {
   text-align: right;
 }
-#header-text h1 {
-  text-align: left;
-}
+
+
 #nav {
   text-align: center;
   background-color: azure;
