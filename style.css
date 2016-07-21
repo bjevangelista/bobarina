@@ -11,17 +11,25 @@ p.neat-word {
 }
 
 #nav {
-  text-align: center; 
+  text-align: center;
   background-color: azure;
 }
+
 #nav li {
-  margin-right: 15px;
+  margin-right: 25px;
   display: inline;
 }
 
-
 #nav li a {
   text-decoration: none;
+  color:purple;
+}
+
+
+#nav li a:hover {
+  text-decoration: underline;
+  color:violet;
 
 }
+
 </style>
