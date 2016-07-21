@@ -4,10 +4,10 @@ p {
     margin: 0 20%;
 }
 p.neat-word {
-    text-align: center;
+    text-align: left;
     font-size:30px;
-    color: blue;
-    text-transform:uppercase;
+    color: violet;
+    text-transform:lowercase;
 }
 
 .main-header {
