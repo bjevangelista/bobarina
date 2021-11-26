@@ -41,3 +41,15 @@
   </body>
 
 </html>
+
+<?php
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+  // collect value of input field
+  $date = $_POST['date'];
+  if (empty($date)) {
+    echo "Date is empty";
+  } else {
+    echo $date;
+  }
+}
+?>
